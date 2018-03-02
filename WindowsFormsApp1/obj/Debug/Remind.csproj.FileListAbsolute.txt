@@ -1,0 +1,12 @@
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Remind.csprojResolveAssemblyReference.cache
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Input.resources
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Remind.csproj.GenerateResource.Cache
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Remind.csproj.CoreCompileInputs.cache
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remind.exe.config
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remind.exe
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remind.pdb
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Remind.Properties.Resources.resources
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Remind.exe
+C:\Users\姚东\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Remind.pdb
